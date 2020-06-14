@@ -14,12 +14,4 @@ All ipython notebook are used for data preprocessing, feature transforming and o
 Run
 For a single model run, navigate to the /code/single_model/ and run the following commands: python base_model.py For a ensemble run, navigate to the /code/ensemble/ and run the following commands: python ensemble.py Make sure to change the data directory and the parameters accordingly before the model run.
 
-Submission
 
-
-Submission score on Kaggle leaderboard with different approaches.
-
-FlowChart
-
-
-Flow chart of the code.
